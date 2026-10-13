@@ -11,7 +11,7 @@ else:
     if A == 1 and B == 1:
         AND = 1
     else:
-        AㄎND = 0
+        AND = 0
     if A != B:
         XOR = 1
     else:
